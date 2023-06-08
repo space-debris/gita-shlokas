@@ -1,7 +1,23 @@
-# gita-shlokas v1
-Python program to generate random verse of the day (Sanskrit Shloka, Transliteration and Translation in Hindi and English) from Bhagavad Gita
+About Project
+**************
+Gita Shlokas - is a Python program to generate a random verse (Sanskrit Shloka, Transliteration and Hindi & English Translation) from the Bhagavad Gita.
 
-Special thanks to:
-https://bhagavadgitaapi.in/ (@PtPrashantTripathi) for providing the content through their API.
-Sumit Dhamija for constant help throughout the project &
-Ayush Kumar for providing the background image.
+Dependencies
+*************
+- Windows 10 OS
+- Python 3.11.3
+- Python requests module
+
+Installing
+***********
+To install the requests module, use command: pip install requests
+
+Authors
+********
+@space-debris
+
+Acknowledgments
+****************
+@PtPrashantTripathi: for providing the content via https://bhagavadgitaapi.in/
+@sumitdhamija: for his constant support and guidance
+Aayush: for providing the background image used as canvas in this project
