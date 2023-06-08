@@ -18,6 +18,6 @@ Authors
 
 Acknowledgments
 ****************
-@PtPrashantTripathi: for providing the content via https://bhagavadgitaapi.in/
-@sumitdhamija: for his constant support and guidance
-Aayush: for providing the background image used as canvas in this project
+@PtPrashantTripathi: for providing the content via https://bhagavadgitaapi.in/ .
+@sumitdhamija: for his constant support and guidance.
+@ayush.singh22 : for providing the background image used as canvas in this project.
